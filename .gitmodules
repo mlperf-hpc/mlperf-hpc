@@ -1,0 +1,6 @@
+[submodule "benchmarks/cosmoflow-benchmark"]
+	path = benchmarks/cosmoflow-benchmark
+	url = https://github.com/sparticlesteve/cosmoflow-benchmark
+[submodule "benchmarks/mlperf-deepcam"]
+	path = benchmarks/mlperf-deepcam
+	url = https://github.com/azrael417/mlperf-deepcam
