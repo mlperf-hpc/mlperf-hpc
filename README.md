@@ -32,4 +32,5 @@ The MLPerf HPC v0.5 rules are based on the MLPerf Training v0.7 rules with
 some adjustments.
 
 The MLPerf Training rules are available at [training\_rules](https://github.com/sparticlesteve/training_policies/blob/hpc-updates/training_rules.adoc).
+
 The MLPerf HPC specific rules are at [hpc\_training\_rules](https://github.com/sparticlesteve/training_policies/blob/hpc-updates/hpc_training_rules.adoc).
