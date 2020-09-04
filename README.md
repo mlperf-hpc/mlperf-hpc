@@ -26,6 +26,10 @@ group as described here: https://mlperf.org/get-involved/
 
 Reference implementations are at [benchmarks](benchmarks).
 
+### Datasets
+
+Instructions to acquire the datasets are given in the reference implementation READMEs.
+
 ### Rules
 
 The MLPerf HPC v0.5 rules are based on the MLPerf Training v0.7 rules with
