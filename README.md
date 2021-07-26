@@ -1,5 +1,8 @@
 # MLPerf HPC
 
+**DEPRECATED** - This repository is deprecated. The reference implementations
+for MLPerf HPC benchmarks have moved to https://github.com/mlcommons/hpc.
+
 This is a landing page for the MLPerf HPC working group and benchmark suite.
 This material will eventually be moved into https://github.com/mlcommons.
 
